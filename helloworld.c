@@ -2,6 +2,6 @@
 
 int main() {
   // Hello World Branch :3
-  printf("Hello, World\n");
+  printf("Hello world!\n");
   return 0;
 }
